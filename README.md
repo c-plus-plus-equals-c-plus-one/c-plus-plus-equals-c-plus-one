@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-plus-plus-equals-c-plus-one&label=Profile%20views&color=0e75b6&style=flat" alt="c-plus-plus-equals-c-plus-one" /> </p>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
