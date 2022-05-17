@@ -16,3 +16,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-plus-plus-equals-c-plus-one&show_icons=true&locale=en" alt="c-plus-plus-equals-c-plus-one" /></p>
+
+<a href="https://github.com/KnlnKS/leetcode-stats"> <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS" width="400"/> </a>
