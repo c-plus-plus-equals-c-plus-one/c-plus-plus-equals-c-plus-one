@@ -19,4 +19,4 @@
 
 
 
-<a href="https://github.com/c-plus-plus-equals-c-plus-one/leetcode-stats"> <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=c-plus-plus-equals-c-plus-one" width="400"/> </a>
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=c-plus-plus-equals-c-plus-one)](https://leetcode.com/c-plus-plus-equals-c-plus-one)
