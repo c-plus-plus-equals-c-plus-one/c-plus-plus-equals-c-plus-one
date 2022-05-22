@@ -1,10 +1,10 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aifos Si Prahs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-plus-plus-equals-c-plus-one&label=Profile%20views&color=0e75b6&style=flat" alt="c-plus-plus-equals-c-plus-one" /> </p>
 
 ### Blogs posts
-<!-- BLOG-POSTS:START -->
-<!-- BLOG-POSTS:END -->
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
